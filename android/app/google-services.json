@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167300090334",
+    "project_id": "tecnostore-5cdec",
+    "storage_bucket": "tecnostore-5cdec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167300090334:android:41ec418c5f0baed1e4754f",
+        "android_client_info": {
+          "package_name": "com.example.tienda_movil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0YHuRLeP82S5ZA8WVH8UkTAvVN5g-oxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.example.examen_computacion_movil
+package com.example.tienda_movil
 
 import io.flutter.embedding.android.FlutterActivity
 
